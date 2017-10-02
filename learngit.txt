@@ -2,4 +2,5 @@ lisonglin is learning git
 lisonglin 
 shisixue
 make make
-he bei sheng cangzhou shi 
+he bei sheng cangzhou shi
+beijing beijing  
